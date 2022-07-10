@@ -1,0 +1,14 @@
+{
+  "name": "telegram-teory-2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "dev" :  "nodemon index.js"
+  },
+  "devDependencies": {
+    "node-telegram-bot-api": "^0.29.0",
+    "nodemon": "^1.12.5"
+  }
+}
